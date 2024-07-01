@@ -8,6 +8,7 @@ export const MapComponent = () => {
 
   return (
     <>
+      <h1>Test Mapbox</h1>
       <Map
         mapboxAccessToken={accessToken}
         initialViewState={{
@@ -15,7 +16,7 @@ export const MapComponent = () => {
           latitude: 37.8,
           zoom: 14,
         }}
-        style={{ width: '100vw', height: '100vh' }}
+        style={{ width: '100vw', height: 'calc(100vh - 80px)' }}
         mapStyle="mapbox://styles/mapbox/streets-v9"
       >
         <NavigationControl showCompass={false} position="bottom-right" />
