@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mapbox-test/static/css/main.54a13064.css",
+    "main.js": "/mapbox-test/static/js/main.0fbd301b.js",
+    "static/js/879.6068de26.chunk.js": "/mapbox-test/static/js/879.6068de26.chunk.js",
+    "static/js/453.852f9673.chunk.js": "/mapbox-test/static/js/453.852f9673.chunk.js",
+    "index.html": "/mapbox-test/index.html",
+    "main.54a13064.css.map": "/mapbox-test/static/css/main.54a13064.css.map",
+    "main.0fbd301b.js.map": "/mapbox-test/static/js/main.0fbd301b.js.map",
+    "879.6068de26.chunk.js.map": "/mapbox-test/static/js/879.6068de26.chunk.js.map",
+    "453.852f9673.chunk.js.map": "/mapbox-test/static/js/453.852f9673.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a13064.css",
+    "static/js/main.0fbd301b.js"
+  ]
+}
